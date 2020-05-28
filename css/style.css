@@ -90,6 +90,10 @@ hr.socket {
     color: #2b88d9;
 }
 
+button:focus {
+    outline: 2px double #2b88d9;
+}
+
 /*--- Landing Page --*/
 
 .landing {
