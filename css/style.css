@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato:400,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
 
 html {
     overflow-x: hidden;
@@ -7,7 +7,7 @@ html {
 
 body {
     overflow-x: hidden;
-    font-family: "Lato", sans-serif;
+    font-family: "Open Sans", sans-serif;
     color: #505962;
 }
 
